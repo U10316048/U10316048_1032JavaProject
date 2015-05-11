@@ -12,7 +12,7 @@ import java.util.Set;
 
 public class Server{
 	
-	public static final String HOST = "192.168.163.1";
+	public static final String HOST = "127.0.0.1";
 	public static final int PORT = 9527;
 	public static final String DISCONNET_TOKEN = "Disconnect"; 
 	public static final String USER_FLAG = "Connect: ";
